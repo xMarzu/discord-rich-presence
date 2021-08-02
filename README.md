@@ -1,2 +1,2 @@
 # discord-rich-presence
-Very simple discord rich presence source codes
+Very simple discord rich presence source code
